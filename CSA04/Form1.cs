@@ -144,6 +144,7 @@ namespace CSA04
             {
                 listBox1.Items.Add(item + record[item]);
             }
+            
         }
 
         private void button6_Click(object sender, EventArgs e)//匯入csv
